@@ -1,0 +1,2 @@
+# perfectNumber
+一個數字若等於其所有因數的總和，則此數為perfect number。利用程式找出100以內所有的完美數
